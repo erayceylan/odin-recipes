@@ -1,0 +1,1 @@
+This project is made for the The Odin Project lesson, and in this project I will be demonstrating my basic HTML skills.
